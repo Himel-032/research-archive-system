@@ -30,6 +30,7 @@ public class Author implements ResearchPaper{
             System.out.println("Content: " + paper.content);
         } else {
             System.out.println("No paper available to view.");
+            System.out.println("");
         }
     }
 }
