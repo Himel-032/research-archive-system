@@ -1,13 +1,13 @@
 public class Author implements ResearchPaper{
     public String name;
    public FullResearchPaper paper;
-   public int publicationYear;
+   public int publicationYearrr;
    public void setPublicationYear(int year){
-       this.publicationYear = year;
+       this.publicationYearrr = year;
    }
 
    public int getPublicationYear(){
-       return publicationYear;
+       return publicationYearrr;
    }
 
     
